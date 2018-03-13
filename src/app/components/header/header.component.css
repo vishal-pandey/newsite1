@@ -1,0 +1,12 @@
+.header{
+	background-color: #607D8B;
+	color: #ECEFF1;
+	font-family: 'Bitter', serif;
+}
+.menu a, .header a{
+	color: #ECEFF1;
+	text-decoration: none;
+}
+.fill{
+	flex: 1 1 auto;
+}
