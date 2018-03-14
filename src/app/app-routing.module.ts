@@ -28,6 +28,10 @@ const routes: Routes = [
 		path: 'portfolio',
 		component: PortfolioComponent
 	},
+	{
+		path: '**',
+		component: HomeComponent
+	}
 ];
 
 @NgModule({
